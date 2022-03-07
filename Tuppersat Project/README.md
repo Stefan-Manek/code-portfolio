@@ -5,3 +5,5 @@ Current project with a goal of launching a miniature satellite and collecting da
 Code is written to interface with temperature and pressure sensors, as well as a USB GPS receiver. 
 
 The physical sensors and components are required to run the code, but it is included for demonstration only.
+
+This project is still a work in progress and further development is required before the satellite will be flown.
