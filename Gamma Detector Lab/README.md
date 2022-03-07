@@ -3,10 +3,10 @@
 The goal of the lab was to characterise the performance of four different gamma ray detectors, with the results for each detector displayed in separate Python notebooks.
 
 The four detectors are as follows:
- Markup : * Bismuth Germanate (BGO)
-          * Sodium Iodide (NaI)
-          * Hyper-pure Germanium (HpGe)
-          * Cadmium Telluride (CdTe)
+* Bismuth Germanate (BGO)
+* Sodium Iodide (NaI)
+* Hyper-pure Germanium (HpGe)
+* Cadmium Telluride (CdTe)
 
 Lab work included taking individual spectra for each detector, for various radioactive elements with emission lines at known energies. 
 Code was hence required to fit a composite gaussian function to specific regions of interest within each of the taken spectra.
