@@ -12,7 +12,7 @@ logging.basicConfig(filename='log.txt', level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # TODO: Move these to main.py
-API_KEY = '19938749fc994ac1add635405fa7ce0b'
+API_KEY = '______'
 API_PREFIX = 'api.football-data.org'
 
 # TODO: Add docstrings
